@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="54f1c8a3-1664-491a-a870-714ec43cbb87" name="扫码机">
+        <fileTransfer rootFolder="/home/giec/qrcode" accessType="SFTP" sshConfigId="d56550e9-13b2-47c2-b794-44a5ecea7e19" sshConfig="giec@192.168.7.131:22 password">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" keepAliveTimeout="0" passiveMode="true" shareSSLContext="true" />
+          </advancedOptions>
+        </fileTransfer>
+      </webServer>
+    </option>
+  </component>
+</project>
